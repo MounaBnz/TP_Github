@@ -1,3 +1,1 @@
-Nouvelle addition
-Correction de bug critique
-Ajout d'une nouvelle fonctionnalité
+ajout d'une nouvelle fonctionnalité sur la meme ligne
